@@ -1004,3 +1004,4 @@ java.io.FileNotFoundException: C:\ws-dsmeta\.metadata\.plugins\org.eclipse.m2e.c
 2022-10-20 16:21:52,684 [Worker-10: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-10-20 16:21:52,701 [Worker-10: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-10-20 16:21:52,701 [Worker-10: Launching backend - DsmetaApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\ws-dsmeta\backend\src\test\resources
+2022-10-25 11:06:46,259 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
